@@ -1,4 +1,4 @@
-# Week_20_Challenge
+# Week 20 Challenge
 The purpose of this analysis is the create a smart contract on the etherium blockchain.
 
 ---
